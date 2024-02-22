@@ -1,0 +1,113 @@
+.uno img{
+    width: 200px;
+    border-radius: 14px;
+    
+
+}
+
+.one{
+    border: 20px black double;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+padding: 20px;
+flex-direction: column;
+}
+
+
+.ropa1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    text-align: center;
+    max-width: 250px;
+}
+
+span{
+    text-align: center;
+}
+
+.dosB{
+    width: 100%;
+    text-align: center;
+}
+
+button{
+    font-size: 30px;
+    padding: 6px 12px;
+    border-radius: 16px;
+    border: 6px double black;
+    margin: 12px;
+
+}
+
+button:hover{
+    font-size: 31px;
+    transition: 100ms;
+    box-shadow: 2px 2px 2px black;
+}
+
+
+#seccion1{
+    background-image: url(Default_young_man_wear_shop_3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#seccion2{
+    background-image: url(Default_young_woman_wear_shop_0.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#seccion3{
+    background-image: url(Default_young_boy_wear_shop_2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#seccion4{
+    background-image: url(Default_young_girl_wear_shop_2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#seccion5{
+    background-image: url(Default_young_baby_wear_shop_3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dosA{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.uno{
+    border: 5px double black;
+    margin: 6px;
+    padding: 6px;
+    min-height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 16px;
+    background-color: rgba(77, 76, 76, 0.685);
+    color: white;
+    font-size: 25px;
+    min-width: 300px;
+}
